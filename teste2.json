@@ -1,0 +1,26 @@
+
+{
+    "usuarios":{
+        "informacoes":[{
+            "nome":"Pedro",
+            "idade":19,
+            "esta_trabalando":false,
+            "detalhes_profissao":{
+                "profissao":null,
+                "empresa":null
+            },
+            "hobbies":["jogar", "fazer codigo", "fazer carinho em gatos"]
+        },
+        {
+            "nome":"Falko",
+            "idade": 20,
+            "esta_trabalhando":true,
+            "detalhes_profissao":{
+                "profissao":"programador",
+                "empresa":"empresa X"
+            },
+            "hobbies": ["andar a cavalo", "fazer tiro a alvo"]
+        }
+    ]
+    }
+}
